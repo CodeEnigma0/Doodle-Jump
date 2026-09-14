@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1789429593 source:c:\users\musta\onedrive\desktop\compgraphics\1_final\main.cpp
+	<windows.h>
+	<mmsystem.h>
+	<GL/glut.h>
+	<iostream>
+	<string>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+
